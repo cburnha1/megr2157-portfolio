@@ -6,18 +6,21 @@ The primary engineering function of a binder clip is to apply a constant clampin
 
 ### b. Governing Model & Assumptions
 **Key Assumption:** The spring steel remains in its linear elastic range, meaning opening the clip never bends the metal permanently.
-### b. Governing Model & Assumptions
-* **Governing Model:** Bending stress and clamping force from beam deflection:
-  $$\sigma_{\text{max}} = \frac{E \cdot t \cdot \Delta}{2 R^2}$$
-  $$F_{\text{clamp}} = \frac{k \cdot \Delta}{L}$$
-  * $\sigma_{\text{max}}$: Maximum bending stress in the steel body ($\text{Pa}$)
-  * $E$: Young's Modulus of spring steel ($\text{Pa}$)
-  * $t$: Sheet metal thickness ($\text{m}$)
-  * $\Delta$: Opening distance at the jaws ($\text{m}$)
-  * $R$: Radius of the rear spine curve ($\text{m}$)
-  * $F_{\text{clamp}}$: Clamping force ($\text{N}$)
-  * $k$: Bending stiffness of the clip body ($\text{N/m}$)
-  * $L$: Distance from the rear spine to the jaw edge ($\text{m}$)
-* **Key Assumption:** The spring steel remains in its linear elastic range, meaning opening the clip never bends the metal permanently.
-
 ### c. Component Geometry & Mechanical Function
+* **Component 1: Sheet Steel Spring Body**
+  ![Spring Body](clip-body.jpg)
+  * *Functionality:* Formed into a triangular shape with folded edges. The rear curved spine acts as a hinge spring, while the flat sides transfer the spring force directly to the front gripping edges.
+* **Components 2 & 3: Wire Handles (Pair)**
+  ![Wire Handles](wire-handles.jpg)
+  * *Functionality:* Bent wire loops that snap into the folded edges of the body. They act as levers to squeeze the clip open. Once attached, they pivot flat against the paper stack to save space.
+### d. Patent Research
+* **Patent Number:** US1139627A
+* **Author(s):** Louis E. Baltzley
+
+#### i. Alternative Solutions
+1. **Brass Paper Fastener (Brad):** Uses bendable metal legs that fold manually rather than spring tension.
+2. **Plastic Slide Spine:** Uses a rigid plastic channel that squeezes paper using friction along the entire edge, without lever handles.
+
+#### ii. Key Engineering Design Decision
+* **Decision:** Rolling the top and bottom edges of the steel body into round sockets.
+* **Justification:** This design creates a hinge socket to hold the wire handles while stiffening the metal edge so it does not bend out of shape under heavy clamping force.
