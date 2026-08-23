@@ -18,8 +18,8 @@ The primary engineering function of a binder clip is to apply a constant clampin
 * **Author(s):** Louis E. Baltzley
 
 #### i. Alternative Solutions
-1. **Brass Paper Fastener (Brad):** Uses bendable metal legs that fold manually rather than spring tension.
-2. **Plastic Slide Spine:** Uses a rigid plastic channel that squeezes paper using friction along the entire edge, without lever handles.
+1. **Brass Paper Fastener:** Uses bendable metal legs that fold manually rather than spring tension.
+2. **Standard Wire Paperclip:** Relies on torsional and bending of a single  wire loop to pinch paper, providing a lighter clamping force without handles or multiple parts.
 
 #### ii. Key Engineering Design Decision
 * **Decision:** Rolling the top and bottom edges of the steel body into round sockets.
