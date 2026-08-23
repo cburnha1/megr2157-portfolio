@@ -3,10 +3,10 @@
 # Part 2: Decide
 
 ### 1. Homepage Identity
-This portfolio serves as a formal engineering record for MEGR 2157, designed specifically for peer reviewers and engineering hiring managers. It presents structured technical assignments organized around three core pillars: analytical modeling, documented decision-making, and objective communication. Rather than acting as a personal resume, this site functions as an auditable repository of technical work where every mechanical claim, governing model, and design decision can be independently evaluated and verified.
+This portfolio is a clear, organized record of my engineering work for MEGR 2157, built specifically for peer reviewers and hiring managers. Instead of acting as a personal resume, this site focuses on what the portfolio actually contains: structured technical assignments, analytical models, and documented design choices. The goal is to give readers a straightforward place to quickly locate, review, and verify my mechanical engineering calculations and decisions.
 
 ### 2. One Intentional Customization
-* **Changed Element:** Added explicit structural section headers (`### 1. Homepage Identity`, `### 2. One Intentional Customization`, `### 3. Your Documentation Standard`) to the Part 2 submission block.
+* **Changed Element:** Added explicit structural section headers (` 1. Homepage Identity`, ` 2. One Intentional Customization`, `3. Your Documentation Standard`) to the Part 2 submission block.
 * **Functional Requirement:** Improves information retrieval and visual hierarchy, allowing readers and evaluators to navigate to specific decision criteria in under 10 seconds.
 * **Why Default Failed:** The default unformatted body text created dense text blocks that reduced readability and slowed down systematic review.
 
