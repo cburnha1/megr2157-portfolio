@@ -25,10 +25,12 @@ The primary engineering function of a binder clip is to apply a constant clampin
 ### c. Component Geometry & Mechanical Function
 * **Component 1: Sheet Steel Spring Body**
   <img src="https://github.com/user-attachments/assets/f1c4c485-0023-4ba8-8ca5-365385080e16" width="400" alt="IMG_3501" />
+  
   * *Functionality:* Formed into a triangular shape with folded edges. The rear curved spine acts as a hinge spring, while the flat sides transfer the spring force directly to the front gripping edges.
 
 * **Components 2 & 3: Wire Handles (Pair)**
   <img src="https://github.com/user-attachments/assets/31f0aa74-bd26-4d45-afa3-2c61126108c1" width="400" alt="Binder 1" />
+  
   * *Functionality:* Bent wire loops that snap into the folded edges of the body. They act as levers to squeeze the clip open. Once attached, they pivot flat against the paper stack to save space.
 ### d. Patent Research
 * **Patent Number:** US1139627A
