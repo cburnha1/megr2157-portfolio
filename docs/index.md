@@ -11,7 +11,7 @@ This portfolio is a clear, organized record of my engineering work for MEGR 2157
 * **Why Default Failed:** The default unformatted body text created dense text blocks that reduced readability and slowed down systematic review.
 
 ### 3. Your Documentation Standard
-I commit to producing clear, reproducible documentation that presents complete mathematical models, explicit engineering assumptions, and objective justifications for every design decision.
+I commit to creating a clear and concise documentation that presents complete mathematical models, engineering assumptions, and justifications for every design decision. 
 
 ---
 
@@ -30,7 +30,6 @@ The primary engineering function of a binder clip is to apply a constant clampin
 * **Components 2 & 3: Wire Handles (Pair)**
   <img src="https://github.com/user-attachments/assets/31f0aa74-bd26-4d45-afa3-2c61126108c1" width="400" alt="Binder 1" />
   * *Functionality:* Bent wire loops that snap into the folded edges of the body. They act as levers to squeeze the clip open. Once attached, they pivot flat against the paper stack to save space.
-  * *Functionality:* Bent wire loops that snap into the folded edges of the body. They act as levers to squeeze the clip open. Once attached, they pivot flat against the paper stack to save space.
 ### d. Patent Research
 * **Patent Number:** US1139627A
 * **Author(s):** Louis E. Baltzley
@@ -42,3 +41,7 @@ The primary engineering function of a binder clip is to apply a constant clampin
 #### ii. Key Engineering Design Decision
 * **Decision:** Rolling the top and bottom edges of the steel body into round sockets.
 * **Justification:** This design creates a hinge socket to hold the wire handles while stiffening the metal edge so it does not bend out of shape under heavy clamping force.
+## Part 3: Communicate — About Me
+
+### Professional Introduction
+My name is Caleb Burnham and I am an undergraduate mechanical engineering student studying at UNC Charlotte. My path to mechanical engineering grew from my desire to discover how objects operate in real world conditions. 
