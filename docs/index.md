@@ -1,7 +1,6 @@
 # Caleb Burnham — MEGR 2157 Portfolios
 
 # Part 2: Decide
-
 ### 1. Homepage Identity
 This portfolio is a clear, organized record of my engineering work for MEGR 2157, built specifically for peer reviewers and hiring managers. Instead of acting as a personal resume, this site focuses on what the portfolio actually contains: structured technical assignments, analytical models, and documented design choices. The goal is to give readers a straightforward place to quickly locate, review, and verify my mechanical engineering calculations and decisions.
 
