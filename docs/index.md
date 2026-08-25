@@ -1,4 +1,4 @@
-# Caleb Burnham — MEGR 2157 Portfolio
+# Caleb Burnham — MEGR 2157 Portfolios
 
 # Part 2: Decide
 
