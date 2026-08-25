@@ -46,4 +46,4 @@ The primary engineering function of a binder clip is to apply a constant clampin
 ## Part 3: Communicate — About Me
 
 ### Professional Introduction
-My name is Caleb Burnham and I am an undergraduate mechanical engineering student studying at UNC Charlotte. My path to mechanical engineering grew from my desire to discover how objects operate in real world conditions. 
+My name is Caleb Burnham and I am an undergraduate mechanical engineering student studying at UNC Charlotte. My path to mechanical engineering grew from my desire to discover how objects operate in real world conditions. As an aspiring engineer I focus on approaching problems systematically by breaking them down into basic groups. Through my coursework and projects I am building skills in testing, documentation, and practical decision making. My goal is to build a strong engineering foundation that allows me to analyze designs critically, defend decisions and share clear work with engineering teams.  
