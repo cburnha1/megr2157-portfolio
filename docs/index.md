@@ -14,15 +14,15 @@
 * **Professional Tone:** Uses conversational student narrative targeted at family, friends, and instructors rather than standardized technical specifications for industry evaluation.
 
 ## Part 2: Decide
-### 1. Homepage Identity
+## 1. Homepage Identity
 This portfolio is a clear, organized record of my engineering work for MEGR 2157, built specifically for peer reviewers and hiring managers. Instead of acting as a personal resume, this site focuses on what the portfolio actually contains: structured technical assignments, analytical models, and documented design choices. The goal is to give readers a straightforward place to quickly locate, review, and verify my mechanical engineering calculations and decisions.
 
-### 2. One Intentional Customization
+## 2. One Intentional Customization
 * **Changed Element:** Added explicit structural section headers (` 1. Homepage Identity`, ` 2. One Intentional Customization`, `3. Your Documentation Standard`) to the Part 2 submission block.
 * **Functional Requirement:** Improves information retrieval and visual hierarchy, allowing readers and evaluators to navigate to specific decision criteria in under 10 seconds.
 * **Why Default Failed:** The default unformatted body text created dense text blocks that reduced readability and slowed down systematic review.
 
-### 3. Your Documentation Standard
+## 3. Your Documentation Standard
 I commit to creating a clear and concise documentation that presents complete mathematical models, engineering assumptions, and justifications for every design decision. 
 
 ---
