@@ -1,11 +1,13 @@
-site_name: megr2157-portfolio
+site_name: Caleb Burnham — MEGR 2157 Portfolio
+
 theme:
   name: material
   features:
     - navigation.sections
     - navigation.expand
+    - toc.integrate
 
 nav:
   - Home: index.md
   - Assignments:
-      - A1: docs/assignments/A01.md
+      - Assignment 1: index.md
