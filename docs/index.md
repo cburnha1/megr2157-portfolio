@@ -7,11 +7,11 @@
 * **Evidence of Reasoning:** Summarizes manufacturing topics but focuses on high-level descriptions rather than displaying step-by-step calculations or trade-off decisions.
 * **Professional Tone:** Maintains a formal, industry-aligned tone focused on aerospace and defense manufacturing applications throughout the documentation.
 
-### Portfolio 2 Analysis
-* **Navigability:** Deep folder nesting without a top-level table of contents requires up to 90 seconds to locate specific deliverables.
-* **Reproducibility:** Lacks explicit hardware setup details and calibration steps, preventing complete external reproduction.
-* **Evidence of Reasoning:** Clearly details governing equations, edge-case constraints, and step-by-step design iterations.
-* **Professional Tone:** Uses concise engineering language and objective metrics across all project logs.
+### Portfolio 2 Analysis (Luke DeVries Sp26)
+* **Navigability:** Page is built into Canvas ePortfolio with a sidebar listing Assignments 1-12. Only issue is naming convention making it hard to know what each assignment consists of. 
+* **Reproducibility:** Assignments have detailed drawings and design process making it possible to replicate projects easy.  
+* **Evidence of Reasoning:** Projects have step-by-step rationale for every design decision. 
+* **Professional Tone:** Uses conversational student narrative targeted at family, friends, and instructors rather than standardized technical specifications for industry evaluation.
 
 # Part 2: Decide
 ### 1. Homepage Identity
