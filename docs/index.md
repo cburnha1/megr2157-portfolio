@@ -1,4 +1,17 @@
 # Caleb Burnham — MEGR 2157 Portfolios
+## Part 1, Task A: Portfolio Analysis
+
+### Portfolio 1 Analysis (NateKarau61/Engineering-Portfolio)
+* **Navigability:** Clear site architecture with dedicated HTML files and direct deployment via GitHub Pages.
+* **Reproducibility:** Provides drawings and GLP files but no true CAD files making replication impossible. 
+* **Evidence of Reasoning:** Summarizes manufacturing topics but focuses on high-level descriptions rather than displaying step-by-step calculations or trade-off decisions.
+* **Professional Tone:** Maintains a formal, industry-aligned tone focused on aerospace and defense manufacturing applications throughout the documentation.
+
+### Portfolio 2 Analysis
+* **Navigability:** Deep folder nesting without a top-level table of contents requires up to 90 seconds to locate specific deliverables.
+* **Reproducibility:** Lacks explicit hardware setup details and calibration steps, preventing complete external reproduction.
+* **Evidence of Reasoning:** Clearly details governing equations, edge-case constraints, and step-by-step design iterations.
+* **Professional Tone:** Uses concise engineering language and objective metrics across all project logs.
 
 # Part 2: Decide
 ### 1. Homepage Identity
