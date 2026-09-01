@@ -1,5 +1,4 @@
 site_name: Caleb Burnham — MEGR 2157 Portfolio
-
 theme:
   name: material
   features:
@@ -11,3 +10,4 @@ nav:
   - Home: index.md
   - Assignments:
       - Assignment 1: index.md
+      - Assignment 2: a2.md
