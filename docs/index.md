@@ -1,4 +1,5 @@
 # Caleb Burnham — MEGR 2157 Portfolios
+**[Click here to view Assignment 2](a2.md)**
 ## Part 1, Task A: Portfolio Analysis
 
 ### Portfolio 1 Analysis (NateKarau61/Engineering-Portfolio)
