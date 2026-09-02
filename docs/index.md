@@ -18,9 +18,6 @@ My name is Caleb Burnham and I am an undergraduate mechanical engineering studen
 ### Defending Engineering Decisions
 Defending an engineering decision means to mathematically and systematically defend any design decisions without any personal biases. You must demonstrate why your design is better than alternatives. Currently I understand the framework of defending a decision, such as identifying trade-offs and grounding choices in mechanical principles, but I am still developing the practical experience required to execute and validate complex engineering defenses under real-world constraints.
 
-### Assignment Effort
-Time spent on assignment: 3.5 hours
-
 ### Portfolio 1 Analysis (NateKarau61/Engineering-Portfolio)
 * **Navigability:** Clear site architecture with dedicated HTML files and direct deployment via GitHub Pages.
 * **Reproducibility:** Provides drawings and GLP files but no true CAD files making replication impossible. 
@@ -63,6 +60,8 @@ The primary engineering function of a binder clip is to apply a constant clampin
 #### ii. Key Engineering Design Decision
 * **Decision:** Rolling the top and bottom edges of the steel body into round sockets.
 * **Justification:** This design creates a hinge socket to hold the wire handles while stiffening the metal edge so it does not bend out of shape under heavy clamping force.
-## Part 3: Communicate — About Me
+
+### Assignment Effort
+Time spent on assignment: 3.5 hours
 
 
